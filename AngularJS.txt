@@ -1,0 +1,6 @@
+Hi,
+
+I would like to know about resources for getting started with AngularJs.
+
+Regards,
+Abhishek
